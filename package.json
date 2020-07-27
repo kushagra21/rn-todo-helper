@@ -1,0 +1,24 @@
+{
+  "name": "rn-todo-helper",
+  "version": "0.0.3",
+  "description": " A simple react native helper to provide out of box functionality using AsyncStorage for various actions requuired in a Todo based application for iOS & Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Todo",
+    "AsyncStorage",
+    "iOS",
+    "Android"
+  ],
+  "author": "Kushagra Sinha",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-native": "^0.62.2",
+    "@react-native-community/async-storage": "^1.11.0"
+  }
+}

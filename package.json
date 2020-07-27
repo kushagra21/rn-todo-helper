@@ -1,7 +1,7 @@
 {
   "name": "rn-todo-helper",
   "version": "0.0.3",
-  "description": " A simple react native helper to provide out of box functionality using AsyncStorage for various actions requuired in a Todo based application for iOS & Android.",
+  "description": " A simple react native helper to provide out of box functionality using AsyncStorage for various actions required in a Todo based application for iOS & Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
